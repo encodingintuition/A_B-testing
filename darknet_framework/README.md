@@ -1,1 +1,0 @@
-# darknet-yolov4_tiny
